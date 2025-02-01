@@ -1,3 +1,7 @@
-print ("qualquer coisa")
+print ("Legal")
 
-print ("Nova versão")
+a = 5
+
+b = 3
+
+print(a, b)
