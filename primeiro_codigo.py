@@ -1,3 +1,5 @@
-print ("qualquer coisa")
+a = 5
 
-print ("Nova versão")
+b = 3
+
+c = 2
